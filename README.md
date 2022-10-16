@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xueyizhan
+- 👋 Hi, I’m Yizhan Xue.
 - 👀 I’m interested in Software Development & Data Science
 - 🌱 I’m currently learning Information Management @ UIUC
 - 💞️ I’m looking to collaborate on ...
